@@ -1,0 +1,36 @@
+
+body {
+  background-image:url("omar-sun.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  color: #53C0F0;
+}
+
+h1{
+	color: #51A2D9;
+
+}
+h2{
+	color: #c9d0d8;
+
+}
+h3 {
+	color: #53C0F0;
+}
+h4 {
+	color: #51A2D9;
+}
+
+hr {
+    color: #CCCCCC;
+}
+
+
+a {
+	color: #B9E5F3;
+}
+
+a:visited {
+color: #8A140E;
+}
+
